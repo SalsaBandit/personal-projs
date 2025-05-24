@@ -1,2 +1,2 @@
 # personal
-My own stuff lol
+My own projects and projects for classes
