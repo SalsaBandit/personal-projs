@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ServiceComponent
+build_property.ProjectDir = D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

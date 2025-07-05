@@ -1,0 +1,9 @@
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\bin\Release\net472\BusinessEntityComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\bin\Release\net472\BusinessEntityComponent.pdb
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\obj\Release\net472\BusinessEntityComponent.csproj.AssemblyReference.cache
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\obj\Release\net472\BusinessEntityComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\obj\Release\net472\BusinessEntityComponent.AssemblyInfoInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\obj\Release\net472\BusinessEntityComponent.AssemblyInfo.cs
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\obj\Release\net472\BusinessEntityComponent.csproj.CoreCompileInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\obj\Release\net472\BusinessEntityComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\BusinessEntityComponent\obj\Release\net472\BusinessEntityComponent.pdb

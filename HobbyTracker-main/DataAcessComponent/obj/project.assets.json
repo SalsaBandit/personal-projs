@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "BusinessEntityComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/BusinessEntityComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessEntityComponent.dll": {}
+        }
+      },
+      "SecurityComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/SecurityComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecurityComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessEntityComponent/1.0.0": {
+      "type": "project",
+      "path": "../BusinessEntityComponent/BusinessEntityComponent.csproj",
+      "msbuildProject": "../BusinessEntityComponent/BusinessEntityComponent.csproj"
+    },
+    "SecurityComponent/1.0.0": {
+      "type": "project",
+      "path": "../SecurityComponent/SecurityComponent.csproj",
+      "msbuildProject": "../SecurityComponent/SecurityComponent.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "BusinessEntityComponent >= 1.0.0",
+      "SecurityComponent >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\NEW\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\DataAccessComponent.csproj",
+      "projectName": "DataAccessComponent",
+      "projectPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\DataAccessComponent.csproj",
+      "packagesPath": "C:\\Users\\NEW\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\NEW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {
+            "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\BusinessEntityComponent.csproj": {
+              "projectPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\BusinessEntityComponent.csproj"
+            },
+            "D:\\Projects\\Student Project\\HobbyTracker_2\\SecurityComponent\\SecurityComponent.csproj": {
+              "projectPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\SecurityComponent\\SecurityComponent.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

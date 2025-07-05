@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HobbyTracker>
+  <Hobbies>
+    <Hobby>
+      <Id>1</Id>
+      <Name>Gold Coin</Name>
+      <Category>Coin</Category>
+      <Price>450</Price>
+      <PersonalValue>8</PersonalValue>
+      <YearsToEstimate>2</YearsToEstimate>
+      <DepreciationRate>2</DepreciationRate>
+      <DepreciatedPrice>432.18</DepreciatedPrice>
+      <User>alice</User>
+      <ConvertedPrice>38433</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>2</Id>
+      <Name>Silver Ring</Name>
+      <Category>Jewelry</Category>
+      <Price>300</Price>
+      <PersonalValue>7</PersonalValue>
+      <YearsToEstimate>2</YearsToEstimate>
+      <DepreciationRate>0.5</DepreciationRate>
+      <DepreciatedPrice>297.01</DepreciatedPrice>
+      <User>alice</User>
+      <ConvertedPrice>25613</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>3</Id>
+      <Name>Antique Vase</Name>
+      <Category>Collectible</Category>
+      <Price>1200</Price>
+      <PersonalValue>9</PersonalValue>
+      <YearsToEstimate>5</YearsToEstimate>
+      <DepreciationRate>1.5</DepreciationRate>
+      <DepreciatedPrice>1112.66</DepreciatedPrice>
+      <User>alice</User>
+      <ConvertedPrice>102453</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>4</Id>
+      <Name>Stamp Collection</Name>
+      <Category>Philately</Category>
+      <Price>150</Price>
+      <PersonalValue>6</PersonalValue>
+      <YearsToEstimate>3</YearsToEstimate>
+      <DepreciationRate>0.2</DepreciationRate>
+      <DepreciatedPrice>149.10</DepreciatedPrice>
+      <User>alice</User>
+      <ConvertedPrice>12807</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>5</Id>
+      <Name>Vintage Camera</Name>
+      <Category>Electronics</Category>
+      <Price>900</Price>
+      <PersonalValue>8</PersonalValue>
+      <YearsToEstimate>4</YearsToEstimate>
+      <DepreciationRate>0.8</DepreciationRate>
+      <DepreciatedPrice>871.54</DepreciatedPrice>
+      <User>bob</User>
+      <ConvertedPrice>76839</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>6</Id>
+      <Name>Comic Book</Name>
+      <Category>Books</Category>
+      <Price>200</Price>
+      <PersonalValue>7</PersonalValue>
+      <YearsToEstimate>2</YearsToEstimate>
+      <DepreciationRate>0.3</DepreciationRate>
+      <DepreciatedPrice>198.80</DepreciatedPrice>
+      <User>bob</User>
+      <ConvertedPrice>17075</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>7</Id>
+      <Name>Old Painting</Name>
+      <Category>Art</Category>
+      <Price>2500</Price>
+      <PersonalValue>10</PersonalValue>
+      <YearsToEstimate>5</YearsToEstimate>
+      <DepreciationRate>2</DepreciationRate>
+      <DepreciatedPrice>2259.80</DepreciatedPrice>
+      <User>bob</User>
+      <ConvertedPrice>213443</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>8</Id>
+      <Name>Antique Stamp</Name>
+      <Category>Stamp</Category>
+      <Price>300</Price>
+      <PersonalValue>10</PersonalValue>
+      <YearsToEstimate>3</YearsToEstimate>
+      <DepreciationRate>0.5</DepreciationRate>
+      <DepreciatedPrice>295.52</DepreciatedPrice>
+      <User>charlie</User>
+      <ConvertedPrice>25613</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>9</Id>
+      <Name>Rare Comic Book</Name>
+      <Category>Books</Category>
+      <Price>950</Price>
+      <PersonalValue>7</PersonalValue>
+      <YearsToEstimate>4</YearsToEstimate>
+      <DepreciationRate>0.08</DepreciationRate>
+      <DepreciatedPrice>946.96</DepreciatedPrice>
+      <User>charlie</User>
+      <ConvertedPrice>81108</ConvertedPrice>
+    </Hobby>
+    <Hobby>
+      <Id>10</Id>
+      <Name>Silver Spoon  Set</Name>
+      <Category>Antique</Category>
+      <Price>780</Price>
+      <PersonalValue>6</PersonalValue>
+      <YearsToEstimate>3</YearsToEstimate>
+      <DepreciationRate>0.9</DepreciationRate>
+      <DepreciatedPrice>759.13</DepreciatedPrice>
+      <User>alice</User>
+      <ConvertedPrice>66594</ConvertedPrice>
+    </Hobby>
+  </Hobbies>
+</HobbyTracker>

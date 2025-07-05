@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StaffUsers>
+  <User>
+    <Username>Administrator</Username>
+    <Password>Welcome@2025</Password>
+    <Access>Staff1</Access>
+  </User>
+  <User>
+    <Username>SuperAdmin</Username>
+    <Password>Welcome@2026</Password>
+    <Access>Staff2</Access>
+  </User>
+</StaffUsers>

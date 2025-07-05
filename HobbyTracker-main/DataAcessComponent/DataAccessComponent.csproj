@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessEntityComponent\BusinessEntityComponent.csproj" />
+    <ProjectReference Include="..\SecurityComponent\SecurityComponent.csproj" />
+  </ItemGroup>
+
+</Project>

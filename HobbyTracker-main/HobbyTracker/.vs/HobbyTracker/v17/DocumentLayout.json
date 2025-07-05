@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFF40BE-864E-43B4-A7F5-1DD7734FE543}|..\\BusinessComponent\\BusinessComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\businesscomponent\\businesscomponent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|d:\\projects\\student project\\hobbytracker_2\\hobbytracker\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|d:\\projects\\student project\\hobbytracker_2\\hobbytracker\\superadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|solutionrelative:superadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|d:\\projects\\student project\\hobbytracker_2\\hobbytracker\\summarytable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|solutionrelative:summarytable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|d:\\projects\\student project\\hobbytracker_2\\hobbytracker\\testpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|solutionrelative:testpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|d:\\projects\\student project\\hobbytracker_2\\hobbytracker\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|solutionrelative:admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|d:\\projects\\student project\\hobbytracker_2\\hobbytracker\\public.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|solutionrelative:public.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|d:\\projects\\student project\\hobbytracker_2\\hobbytracker\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66F1480-6F62-4DAD-9F84-B0C7221764A7}|HobbyTracker.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFF40BE-864E-43B4-A7F5-1DD7734FE543}|..\\BusinessComponent\\BusinessComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\businesscomponent\\businessaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26C151-10D6-473F-866F-3F71B0B7BDC7}|..\\DataAcessComponent\\DataAccessComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\dataacesscomponent\\xmldbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF27A36-F760-4C02-B850-6D697451938C}|..\\ServiceComponent\\ServiceComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\servicecomponent\\serviceaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF27A36-F760-4C02-B850-6D697451938C}|..\\ServiceComponent\\ServiceComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\servicecomponent\\servicecomponent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278EFD4B-BEBC-422A-B17A-B8C38667B03A}|..\\SecurityComponent\\SecurityComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\securitycomponent\\securitycomponent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278EFD4B-BEBC-422A-B17A-B8C38667B03A}|..\\SecurityComponent\\SecurityComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\securitycomponent\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD7CA5B-6058-4932-9474-BBAF2C2D08F3}|..\\BusinessEntityComponent\\BusinessEntityComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\businessentitycomponent\\businessentitycomponent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD7CA5B-6058-4932-9474-BBAF2C2D08F3}|..\\BusinessEntityComponent\\BusinessEntityComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\businessentitycomponent\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD7CA5B-6058-4932-9474-BBAF2C2D08F3}|..\\BusinessEntityComponent\\BusinessEntityComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\businessentitycomponent\\staffusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD7CA5B-6058-4932-9474-BBAF2C2D08F3}|..\\BusinessEntityComponent\\BusinessEntityComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\businessentitycomponent\\hobbyitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD7CA5B-6058-4932-9474-BBAF2C2D08F3}|..\\BusinessEntityComponent\\BusinessEntityComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\businessentitycomponent\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26C151-10D6-473F-866F-3F71B0B7BDC7}|..\\DataAcessComponent\\DataAccessComponent.csproj|d:\\projects\\student project\\hobbytracker_2\\dataacesscomponent\\dataaccesscomponent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperAdmin.aspx",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\SuperAdmin.aspx",
+              "RelativeDocumentMoniker": "SuperAdmin.aspx",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\SuperAdmin.aspx",
+              "RelativeToolTip": "SuperAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-05T10:51:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SummaryTable.aspx",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\SummaryTable.aspx",
+              "RelativeDocumentMoniker": "SummaryTable.aspx",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\SummaryTable.aspx",
+              "RelativeToolTip": "SummaryTable.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-05T10:51:36.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Admin.aspx",
+              "RelativeDocumentMoniker": "Admin.aspx",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Admin.aspx",
+              "RelativeToolTip": "Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-05T10:51:00.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestPage.aspx",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\TestPage.aspx",
+              "RelativeDocumentMoniker": "TestPage.aspx",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\TestPage.aspx",
+              "RelativeToolTip": "TestPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-05T10:50:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Public.aspx",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Public.aspx",
+              "RelativeDocumentMoniker": "Public.aspx",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Public.aspx",
+              "RelativeToolTip": "Public.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-05T10:47:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:40:35.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CryptoHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\SecurityComponent\\CryptoHelper.cs",
+              "RelativeDocumentMoniker": "..\\SecurityComponent\\CryptoHelper.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\SecurityComponent\\CryptoHelper.cs",
+              "RelativeToolTip": "..\\SecurityComponent\\CryptoHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:35:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Admin.aspx.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\HobbyTracker\\Admin.aspx.cs",
+              "RelativeToolTip": "Admin.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:31:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessAccess.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessComponent\\BusinessAccess.cs",
+              "RelativeDocumentMoniker": "..\\BusinessComponent\\BusinessAccess.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessComponent\\BusinessAccess.cs",
+              "RelativeToolTip": "..\\BusinessComponent\\BusinessAccess.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAASwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:29:44.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessEntityComponent\\UserModel.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\UserModel.cs",
+              "RelativeToolTip": "..\\BusinessEntityComponent\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:29:31.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StaffUserModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\StaffUserModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessEntityComponent\\StaffUserModel.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\StaffUserModel.cs",
+              "RelativeToolTip": "..\\BusinessEntityComponent\\StaffUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:29:29.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HobbyItemModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\HobbyItemModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessEntityComponent\\HobbyItemModel.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\HobbyItemModel.cs",
+              "RelativeToolTip": "..\\BusinessEntityComponent\\HobbyItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:29:24.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessEntityComponent\\CategoryModel.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\CategoryModel.cs",
+              "RelativeToolTip": "..\\BusinessEntityComponent\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:29:14.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XmlDbAccess.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\XmlDbAccess.cs",
+              "RelativeDocumentMoniker": "..\\DataAcessComponent\\XmlDbAccess.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\XmlDbAccess.cs",
+              "RelativeToolTip": "..\\DataAcessComponent\\XmlDbAccess.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAhwEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:28:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SecurityComponent",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\SecurityComponent\\SecurityComponent.csproj",
+              "RelativeDocumentMoniker": "..\\SecurityComponent\\SecurityComponent.csproj",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\SecurityComponent\\SecurityComponent.csproj",
+              "RelativeToolTip": "..\\SecurityComponent\\SecurityComponent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T10:25:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataAccessComponent",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\DataAccessComponent.csproj",
+              "RelativeDocumentMoniker": "..\\DataAcessComponent\\DataAccessComponent.csproj",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\DataAccessComponent.csproj",
+              "RelativeToolTip": "..\\DataAcessComponent\\DataAccessComponent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T10:25:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusinessEntityComponent",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\BusinessEntityComponent.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessEntityComponent\\BusinessEntityComponent.csproj",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessEntityComponent\\BusinessEntityComponent.csproj",
+              "RelativeToolTip": "..\\BusinessEntityComponent\\BusinessEntityComponent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T10:25:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessComponent",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessComponent\\BusinessComponent.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessComponent\\BusinessComponent.csproj",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessComponent\\BusinessComponent.csproj",
+              "RelativeToolTip": "..\\BusinessComponent\\BusinessComponent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T10:25:42.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceComponent",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\ServiceComponent\\ServiceComponent.csproj",
+              "RelativeDocumentMoniker": "..\\ServiceComponent\\ServiceComponent.csproj",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\ServiceComponent\\ServiceComponent.csproj",
+              "RelativeToolTip": "..\\ServiceComponent\\ServiceComponent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T10:22:55.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceAccess.cs",
+              "DocumentMoniker": "D:\\Projects\\Student Project\\HobbyTracker_2\\ServiceComponent\\ServiceAccess.cs",
+              "RelativeDocumentMoniker": "..\\ServiceComponent\\ServiceAccess.cs",
+              "ToolTip": "D:\\Projects\\Student Project\\HobbyTracker_2\\ServiceComponent\\ServiceAccess.cs",
+              "RelativeToolTip": "..\\ServiceComponent\\ServiceAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:22:49.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAcessComponent\DataAccessComponent.csproj" />
+    <ProjectReference Include="..\ServiceComponent\ServiceComponent.csproj" />
+  </ItemGroup>
+
+</Project>

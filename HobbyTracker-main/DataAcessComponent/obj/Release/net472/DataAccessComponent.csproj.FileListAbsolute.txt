@@ -1,0 +1,14 @@
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAccessComponent.csproj.AssemblyReference.cache
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAccessComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAccessComponent.AssemblyInfoInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAccessComponent.AssemblyInfo.cs
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAccessComponent.csproj.CoreCompileInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\bin\Release\net472\DataAccessComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\bin\Release\net472\DataAccessComponent.pdb
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\bin\Release\net472\BusinessEntityComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\bin\Release\net472\SecurityComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\bin\Release\net472\BusinessEntityComponent.pdb
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\bin\Release\net472\SecurityComponent.pdb
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAcce.111E5514.Up2Date
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAccessComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\DataAcessComponent\obj\Release\net472\DataAccessComponent.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HobbyTracker>
+  <Users>
+    <User>
+      <Id>1</Id>
+      <UserName>alice</UserName>
+      <Password>rgTjLUW+kB5s96LBWN4+Qg==</Password>
+    </User>
+    <User>
+      <Id>2</Id>
+      <UserName>bob</UserName>
+      <Password>2mRcsQyLOx2PZ+qoSY4yzQ==</Password>
+    </User>
+    <User>
+      <Id>3</Id>
+      <UserName>charlie</UserName>
+      <Password>Z4XwaCXdy5mpuVgcD8rJEg==</Password>
+    </User>
+    <User>
+      <Id>4</Id>
+      <UserName>David</UserName>
+      <Password>Gd+vql7a3gvRev41BQ2ppA==</Password>
+    </User>
+    <User>
+      <Id>5</Id>
+      <UserName>test</UserName>
+      <Password>klkwl4KGEJyQdKxbSdrFsQ==</Password>
+    </User>
+  </Users>
+</HobbyTracker>

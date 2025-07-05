@@ -1,0 +1,185 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "BusinessEntityComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/BusinessEntityComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessEntityComponent.dll": {}
+        }
+      },
+      "DataAccessComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "BusinessEntityComponent": "1.0.0",
+          "SecurityComponent": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessComponent.dll": {}
+        }
+      },
+      "SecurityComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/SecurityComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecurityComponent.dll": {}
+        }
+      },
+      "ServiceComponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/ServiceComponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "BusinessEntityComponent/1.0.0": {
+      "type": "project",
+      "path": "../BusinessEntityComponent/BusinessEntityComponent.csproj",
+      "msbuildProject": "../BusinessEntityComponent/BusinessEntityComponent.csproj"
+    },
+    "DataAccessComponent/1.0.0": {
+      "type": "project",
+      "path": "../DataAcessComponent/DataAccessComponent.csproj",
+      "msbuildProject": "../DataAcessComponent/DataAccessComponent.csproj"
+    },
+    "SecurityComponent/1.0.0": {
+      "type": "project",
+      "path": "../SecurityComponent/SecurityComponent.csproj",
+      "msbuildProject": "../SecurityComponent/SecurityComponent.csproj"
+    },
+    "ServiceComponent/1.0.0": {
+      "type": "project",
+      "path": "../ServiceComponent/ServiceComponent.csproj",
+      "msbuildProject": "../ServiceComponent/ServiceComponent.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "DataAccessComponent >= 1.0.0",
+      "ServiceComponent >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\NEW\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessComponent\\BusinessComponent.csproj",
+      "projectName": "BusinessComponent",
+      "projectPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessComponent\\BusinessComponent.csproj",
+      "packagesPath": "C:\\Users\\NEW\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\BusinessComponent\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\NEW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {
+            "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\DataAccessComponent.csproj": {
+              "projectPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\DataAcessComponent\\DataAccessComponent.csproj"
+            },
+            "D:\\Projects\\Student Project\\HobbyTracker_2\\ServiceComponent\\ServiceComponent.csproj": {
+              "projectPath": "D:\\Projects\\Student Project\\HobbyTracker_2\\ServiceComponent\\ServiceComponent.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

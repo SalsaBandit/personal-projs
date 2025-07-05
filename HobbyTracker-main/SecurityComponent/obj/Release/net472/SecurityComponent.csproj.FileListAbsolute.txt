@@ -1,0 +1,9 @@
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\bin\Release\net472\SecurityComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\bin\Release\net472\SecurityComponent.pdb
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\obj\Release\net472\SecurityComponent.csproj.AssemblyReference.cache
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\obj\Release\net472\SecurityComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\obj\Release\net472\SecurityComponent.AssemblyInfoInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\obj\Release\net472\SecurityComponent.AssemblyInfo.cs
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\obj\Release\net472\SecurityComponent.csproj.CoreCompileInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\obj\Release\net472\SecurityComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\SecurityComponent\obj\Release\net472\SecurityComponent.pdb

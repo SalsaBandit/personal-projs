@@ -1,0 +1,11 @@
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceComponent.csproj.AssemblyReference.cache
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceComponent.AssemblyInfoInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceComponent.AssemblyInfo.cs
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceComponent.csproj.CoreCompileInputs.cache
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\bin\Release\net472\ServiceComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\bin\Release\net472\ServiceComponent.pdb
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\bin\Release\net472\Newtonsoft.Json.dll
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceC.FA9E0B53.Up2Date
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceComponent.dll
+D:\Projects\Student Project\HobbyTracker_2\ServiceComponent\obj\Release\net472\ServiceComponent.pdb
